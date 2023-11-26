@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXj0/dVLT4mvwseVEVLGBl7iTTt0cCFite6P1Vg7JiSN51KWNJNTdgNVbgUDHrwnVWGQWjpcjQkxxp+AE0sloQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aeqwr\\Downloads\\HW_12\\ClinicDesktop\\ClinicDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aeqwr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
